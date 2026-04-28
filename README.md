@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">👋 Halo, Saya Hakim!</h1>
 
-<!--
-**Kimderjoyy/Kimderjoyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Junior Web Developer yang lagi semangat-semangatnya belajar biar jadi pro 🚀</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=440&lines=Welcome+to+my+profile!;Junior+Web+Dev+from+Indonesia;Suka+ngoding+sambil+ngopi+☕;Terus+belajar+dan+berkembang!" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hakim&label=Pengunjung+Profil&color=1E90FF&style=flat-square" alt="profile views" />
+</p>
+
+---
+
+## 🧑‍💻 Tentang Saya
+
+```python
+class Hakim:
+    def __init__(self):
+        self.role = "Junior Web Developer"
+        self.warna_favorit = "Biru 🔵"
+        self.sedang_belajar = ["React JS", "Tailwind CSS", "Laravel"]
+        self.cita_cita = "Jadi Fullstack Developer yang keren"
+    
+    def halo(self):
+        print("Thanks udah mampir ke profilku! 🙌")

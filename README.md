@@ -1,93 +1,33 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200&section=header&text=MegaGengar&fontSize=70&fontColor=white&animation=fadeIn" width="100%" />
+[MegaGengar](img/Banner.png)
+
+## 👋 Hello World! I'm Faza Angga
+
+<div align="left">
+
+- 🏢 I'm currently doing an internship  
+- 📚 I'm currently learning **Laravel** and **React** Framework
+- 📬 Reach me at: [fazaanggapr@gmail.com](mailto:fazaanggapr@gmail.com)
 </div>
 
-<h1 align="center">
-  Halo! Saya Hakim 👋
-</h1>
+## 📱 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fazaanggapr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/fazaanggapr)
+ 
+## 💻 Tech Stack:
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![PHPMYADMIN](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![HP LAPTOP](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white) ![Windows 10](https://img.shields.io/badge/Windows_10-0078d4?style=for-the-badge&logo=windows_10&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-<h3 align="center">Junior Web Developer dari Indonesia</h3>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fazaanggapr&show_icons=true&theme=monokai&rank_icon=github&hide_border=false) <br />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=1E90FF&center=true&vCenter=true&width=500&lines=Junior+Web+Developer;Belajar+React+%26+Laravel;Suka+ngoding+sambil+ngopi;Open+untuk+kolaborasi!" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fazaanggapr&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hakim&label=Pengunjung&color=1E90FF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/hakim?label=Followers&color=1E90FF&style=flat-square" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fazaanggapr&theme=monokai&hide_border=true)
 
----
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai&row=2&column=3)
 
-## 📌 Tentang Saya
-
-- 🌱 Saat ini sedang belajar **React.js** dan **Laravel**
-- 🎯 Target jadi **Fullstack Web Developer**
-- 💼 Siap untuk posisi **Junior Web Developer / Magang**
-- ⚡ Fun fact: Suka ngopi kalau lagi stuck coding ☕
-
----
-
-## 🛠️ Tech Stack
-
-### Yang sudah saya pelajari:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Yang sedang saya perdalam:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Yang akan saya pelajari selanjutnya:
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
-## 📊 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hakim&show_icons=true&theme=react&bg_color=0d1117&title_color=1E90FF&icon_color=1E90FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakim&layout=compact&theme=react&bg_color=0d1117&title_color=1E90FF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakim&theme=blueberry" />
-</p>
-
----
-
-## 📱 Hubungi Saya
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[username_ig_kamu])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[username_linkedin_kamu])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[email_kamu])
-
----
-
-## 🌱 Proyek yang pernah saya buat
-
-| Proyek | Teknologi | Deskripsi |
-|--------|-----------|-----------|
-| Portfolio Website | HTML, CSS | Website portofolio pribadi |
-| Ecommerce Warung | Laravel 12, Tailwind, Mysql | Aplikasi belanja kebutuhan rumah tangga |
-| Dashboard Admin | Laravel 11, Mysql | Manajemen sederhana |
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer" width="100%" />
-</div>
-
-<p align="center">
-  ⭐️ Follow untuk liat perjalanan belajar gw menjadi pro! ⭐️
-</p>
+## 🕹 Pacman
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fazaanggapr/fazaanggapr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fazaanggapr/fazaanggapr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fazaanggapr/fazaanggapr/output/pacman-contribution-graph.svg">
+</picture>

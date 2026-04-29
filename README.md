@@ -17,8 +17,8 @@ I use this space not just as a portfolio, but also as a personal archive of know
 # 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,vercel,golang,python,java,nodejs" />
-</p>
+  <!-- Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,vercel,python,java,nodejs,blender,photoshop,react,cloudflare,discord,figma,flutter,gmail,github,instagram,linkedin,mongodb,npm,postman,powershell,nextjs,nginx,robloxstudio,tailwind,unity,unreal,vite,vscode,twitter,windows,wordpress," width="1200"/></p>
 
 ---
 

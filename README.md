@@ -1,29 +1,58 @@
-[MegaGengar](img/Banner.png)
+![MegaGengar] (img)
 
-## 👋 Hello Gang! I'm Hakim
+# 👋 Hi, I'm MegaGengar!
 
-<div align="left">
+# 💼 About Me
 
-- 🏢 I'm currently doing an internship  
-- 📚 I'm currently learning **Laravel12** and **Next,js**
-- 📬 Reach me at: [ahdanil04062008@gmail.com](mailto:ahdanil04062008@gmail.com)
-</div>
+- 💻 i'm a junior web dev 
+- 🚀 Currently learning: Laravel 12, Vercel and Node.Js
+- 🎯 Focus: Becoming better every day  
 
-## 📱 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fazaanggapr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/fazaanggapr)
- 
-## 💻 Tech Stack:
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![PHPMYADMIN](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![HP LAPTOP](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white) ![Windows 10](https://img.shields.io/badge/Windows_10-0078d4?style=for-the-badge&logo=windows_10&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kimderjoyy&show_icons=true&theme=monokai&rank_icon=github&hide_border=false) <br />
+# 🧰 Tech Stack
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=kimderjoyy&theme=monokai&row=2&column=3)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,vercel,golang,python,java,nodejs" />
+</p>
 
-## 🕹 Pacman
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fazaanggapr/fazaanggapr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fazaanggapr/fazaanggapr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fazaanggapr/fazaanggapr/output/pacman-contribution-graph.svg">
-</picture>
+---
+
+# 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimderjoyy&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimderjoyy&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 Growth Journey
+
+- 🌱 Continuously evolving my skills like a Pokémon evolution  
+- 💻 Developing scalable and useful web applications  
+- 🛠️ Tackling challenges and debugging efficiently  
+- 📚 Expanding knowledge in modern technologies  
+- 🎯 Focused on becoming a better developer every day  
+
+---
+
+# 📫 Contact Me
+
+- 📧 Email: ahdanil04062008@gmail.com
+- 📱 Instagram: @hkim.co.id
+
+---
+
+# 🐾 Fun Fact
+
+> "Just like Pokémon evolve, I evolve with every line of code I write."
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR4Mmx6aDZqazk4b2ZwdnJpYnVvNGg4eHMxNmN0dWhtMWMwaGNvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mhEXfMFWYf9PW/giphy.gif" width="1200" height="250"/>
+</p>
+
+---
+
+⭐ *Thank you* ⭐

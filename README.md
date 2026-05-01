@@ -1,6 +1,6 @@
- <img src="img/MegaGengar.png" width="1200" height="250"/>
+ <img src="img/pokemon.jpeg" width="1200" height="270"/>
  
-# 👋 Hi, I'm MegaGengar!
+# 👋 Hi, I'm Kimderjoyy!
 - Welcome to my GitHub profile! This is where I continuously develop and refine my skills, explore new technologies, and document my learning journey. 
 Here, you will find a collection of projects that I have built as part of my growth as a developer ranging from simple experiments to more structured and practical applications. Each project represents not only what I have learned, but also how I approach problem-solving, write code, and improve over time.
 I use this space not just as a portfolio, but also as a personal archive of knowledge, where I can track my progress and share my work with others.I believe in learning by doing, and every repository here is a step forward in that journey.
